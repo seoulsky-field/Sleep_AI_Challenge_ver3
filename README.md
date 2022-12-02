@@ -3,7 +3,7 @@
 ## Sleep AI Challenge ver.3
 
 Codes for 3rd ranking solution for Sleep AI Challenge! <br>
-Leaderboard: 2nd rank, Presentation: 3rd rank, Final: 3rd rank
+(Leaderboard: 2nd rank, Presentation: 3rd rank, Final: 3rd rank) <br>
 If you want to know more about our codes, check [code_explain.md](https://github.com/seoulsky-field/sleep_ai_challenge_ver3/blob/main/code_explain.md)!
 
 <br>
